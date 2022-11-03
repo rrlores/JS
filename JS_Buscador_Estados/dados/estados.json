@@ -1,0 +1,191 @@
+[
+    {
+        "abrev": "AC",
+        "nome": "Acre",
+        "capital": "Rio Branco",
+        "area": "152.581",
+        "pop": "790.101"
+    },
+    {
+        "abrev": "AL",
+        "nome": "Alagoas",
+        "capital": "Maceió",
+        "area": "27.767,7",
+        "pop": "3.120.494"
+    },
+    {
+        "abrev": "AP",
+        "nome": "Amapá",
+        "capital": "Macapá",
+        "area": "142.814,585",
+        "pop": "669.526"
+    },
+    {
+        "abrev": "AM",
+        "nome": "Amazonas",
+        "capital": "Manuas",
+        "area": "1.570.745,7",
+        "pop": "3.483.985"
+    },
+    {
+        "abrev": "BA",
+        "nome": "Bahia",
+        "capital": "Salvador",
+        "area": "565.733",
+        "pop": "14.016.906"
+    },
+    {
+        "abrev": "CE",
+        "nome": "Ceará",
+        "capital": "Fortaleza",
+        "area": "146.348,3",
+        "pop": "8.452.381"
+    },
+    {
+        "abrev": "DF",
+        "nome": "Distrito Federal",
+        "capital": "",
+        "area": "5.802",
+        "pop": "2.570.160"
+    },
+    {
+        "abrev": "ES",
+        "nome": "Espírito Santo",
+        "capital": "Vitória",
+        "area": "46.077,5",
+        "pop": "3.514.952"
+    },
+    {
+        "abrev": "GO",
+        "nome": "Goiás",
+        "capital": "Goiania",
+        "area": "340.086",
+        "pop": "6.003.788"
+    },
+    {
+        "abrev": "MA",
+        "nome": "Maranhão",
+        "capital": "São Luís",
+        "area": "331.983,293",
+        "pop": "6.574.789"
+    },
+    {
+        "abrev": "MT",
+        "nome": "Mato Grosso",
+        "capital": "Cuiabá",
+        "area": "903.357",
+        "pop": "3.035.122"
+    },
+    {
+        "abrev": "MS",
+        "nome": "Mato Grosso do Sul",
+        "capital": "Campo Grande",
+        "area": "357.124,962",
+        "pop": "2.449.024"
+    },
+    {
+        "abrev": "MG",
+        "nome": "Minas Gerais",
+        "capital": "Belo Horizonte",
+        "area": "586.528,29",
+        "pop": "19.597.330"
+    },
+    {
+        "abrev": "PA",
+        "nome": "Pará",
+        "capital": "Belém",
+        "area": "1.247.689,5",
+        "pop": "7.581.051"
+    },
+    {
+        "abrev": "PB",
+        "nome": "Paraíba",
+        "capital": "João Pessoa",
+        "area": "56.584,6",
+        "pop": "3.766.528"
+    },
+    {
+        "abrev": "PR",
+        "nome": "Paraná",
+        "capital": "Curitiba",
+        "area": "199.298,982",
+        "pop": "11.516.840"
+    },
+    {
+        "abrev": "PE",
+        "nome": "Pernambuco",
+        "capital": "Recife",
+        "area": "98.311,616",
+        "pop": "8.796.448"
+    },
+    {
+        "abrev": "PI",
+        "nome": "Piauí",
+        "capital": "Teresina",
+        "area": "251.529,186",
+        "pop": "3.118.360"
+    },
+    {
+        "abrev": "RJ",
+        "nome": "Rio de Janeiro",
+        "capital": "Rio de Janeiro",
+        "area": "43.696,1",
+        "pop": "16.589.780"
+    },
+    {
+        "abrev": "RN",
+        "nome": "Rio Grande do Norte",
+        "capital": "Natal",
+        "area": "52.796,791",
+        "pop": "3.168.027"
+    },
+    {
+        "abrev": "RS",
+        "nome": "Rio Grande do Sul",
+        "capital": "Porto Alegre",
+        "area": "281.707,149",
+        "pop": "11.422.973"
+    },
+    {
+        "abrev": "RO",
+        "nome": "Rondônia",
+        "capital": "Porto Velho",
+        "area": "237.576,16",
+        "pop": "1.562.409"
+    },
+    {
+        "abrev": "RR",
+        "nome": "Roraima",
+        "capital": "Boa Vista",
+        "area": "223.644,527",
+        "pop": "450.479"
+    },
+    {
+        "abrev": "SC",
+        "nome": "Santa Catarina",
+        "capital": "Florianópolis",
+        "area": "95.730,684",
+        "pop": "7.252.502"
+    },
+    {
+        "abrev": "SP",
+        "nome": "São Paulo",
+        "capital": "São Paulo",
+        "area": "248.222,8",
+        "pop": "41.262.199"
+    },
+    {
+        "abrev": "SE",
+        "nome": "Sergipe",
+        "capital": "Aracaju",
+        "area": "21.910,4",
+        "pop": "2.068.017"
+    },
+    {
+        "abrev": "TO",
+        "nome": "Tocantins",
+        "capital": "Palmas",
+        "area": "277.620,91",
+        "pop": "1.383.445"
+    }
+]

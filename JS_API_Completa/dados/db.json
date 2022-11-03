@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Lucas Graham",
+            "email": "l.graham@hotmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Everaldo Silva",
+            "email": "e.silva@gmail.com "
+        },
+        {
+            "id": 3,
+            "name": "Claudio Borges",
+            "email": "c.borges@gmail.com"
+        }
+    ]
+}
